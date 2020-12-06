@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Ruby and python ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMorenoMorales&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMorenoMorales&theme=tokyonight&langs_count=9)
