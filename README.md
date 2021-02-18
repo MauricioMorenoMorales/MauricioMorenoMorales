@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning Ruby and python ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMorenoMorales&theme=tokyonight&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMorenoMorales&theme=tokyonight&langs_count=12&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauricioMorenoMorales)](https://github.com/anuraghazra/github-readme-stats)
