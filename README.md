@@ -8,4 +8,4 @@
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMorenoMorales&theme=tokyonight&langs_count=12&layout=compact&hide=vue,makefile)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauricioMorenoMorales)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauricioMoreno)
